@@ -1,0 +1,1 @@
+ssh -i "D:\Users\pyerravelly\Desktop\twitter_analysis.pem" ec2-user@ec2-34-217-75-40.us-west-2.compute.amazonaws.com

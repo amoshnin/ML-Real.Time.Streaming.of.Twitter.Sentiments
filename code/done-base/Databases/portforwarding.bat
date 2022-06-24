@@ -1,0 +1,1 @@
+ssh -i "D:\Users\pyerravelly\Desktop\twitter_analysis.pem" ec2-user@ec2-34-217-75-40.us-west-2.compute.amazonaws.com -L 2081:localhost:2041 -L 4888:localhost:4888 -L 2080:localhost:2080 -L 27017:localhost:27017 -L 28017:localhost:28017  -L 8050:localhost:8050 -L 4141:localhost:4141 -L 3880:localhost:3880
